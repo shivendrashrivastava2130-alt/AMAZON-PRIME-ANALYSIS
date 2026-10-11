@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project focuses on analyzing Prime Video's content catalog using Microsoft Power BI. The dashboard transforms raw data into meaningful visual insights, helping users understand the distribution of movies and TV shows, content trends, ratings, genres, and country-wise availability.
-![Uploading Screenshot 2026-10-11 225748.png…]()
+[Uploading Screenshot 2026-10-11 225748.png…]()
 
 
 ## Objectives
